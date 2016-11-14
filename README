@@ -1,0 +1,4 @@
+- Completing setup for Vim:
+    Download vundle from github
+    Run :PluginInstall from vim
+
